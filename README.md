@@ -1,2 +1,2 @@
 # laravel-docker-template
-# coachtech/flea-market
+# flea-market
